@@ -1,0 +1,24 @@
+SetNumeros/LinkedHashSetNumeros.java
+ SetNumeros.LinkedHashSetNumeros
+Stream.java
+ Stream
+SetNumeros/HashSetNumeros.java
+ SetNumeros.HashSetNumeros
+ListaNomes.java
+ ListaNomes
+ComparatorComparable/ListaCompras.java
+ ComparatorComparable.ListaCompras
+ExercicioOptional.java
+ ExercicioOptional
+ComparatorComparable/ListaComprasComparator.java
+ ComparatorComparable.ListaComprasComparator
+SetNumeros/TreeSetNumeros.java
+ SetNumeros.TreeSetNumeros
+FilaNomes.java
+ FilaNomes
+ExercicioMap/HashMapEstados.java
+ ExercicioMap.HashMapEstados
+ComparatorComparable/OrdemLista.java
+ ComparatorComparable.OrdemLista
+ExercicioMap/TreeMapEstados.java
+ ExercicioMap.TreeMapEstados
